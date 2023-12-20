@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32630.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DQSP", "DQSP\DQSP.csproj", "{C7D64F6F-CE83-4B30-93A7-4E88AF5BD51B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7D64F6F-CE83-4B30-93A7-4E88AF5BD51B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7D64F6F-CE83-4B30-93A7-4E88AF5BD51B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7D64F6F-CE83-4B30-93A7-4E88AF5BD51B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7D64F6F-CE83-4B30-93A7-4E88AF5BD51B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {193603F6-C549-41A1-AFC6-8E8DA0CC5F6D}
+	EndGlobalSection
+EndGlobal
